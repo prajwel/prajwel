@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You will find mostly python scripts related to AstroSat UVIT data analysis at my profile. Do check them out! Especially 🌟 Curvit 🌟 ! 
+
 <!--
 **prajwel/prajwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
